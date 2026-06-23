@@ -12,7 +12,7 @@ Completed a Python programming internship at CodeAlpha, where I developed a vari
 ## 🚀 Projects Overview
 
 - **Task 1: Hangman Game** 
-- **Task 2: Stock Profile Tracker** 
+- **Task 2: Basic Chatbot** 
 - **Task 3: Stock Profile Tracker** 
 
 ---
